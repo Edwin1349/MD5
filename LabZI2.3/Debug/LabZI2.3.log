@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LabZI2.3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  LabZI2MD5.cpp
+C:\Users\Orest\source\repos\LabZI2.3\LabZI2MD5.cpp(126,39): warning C4244: 'initializing': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+C:\Users\Orest\source\repos\LabZI2.3\LabZI2MD5.cpp(128,55): warning C4244: 'argument': conversion from 'uint64_t' to 'size_t', possible loss of data
+  LabZI2.3.vcxproj -> C:\Users\Orest\source\repos\LabZI2.3\Debug\LabZI2MD5.exe
